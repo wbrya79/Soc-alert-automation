@@ -225,9 +225,6 @@ The project also reinforced an important distinction: **automating an action is 
 
 While this implementation is not a production SOC solution, it demonstrates my ability to configure, integrate, troubleshoot, and explain technologies relevant to security operations.
 
-## Acknowledgments
-
-This project was developed as a guided hands-on learning exercise using a cybersecurity automation tutorial. The implementation involved configuring and troubleshooting the workflow in a self-hosted environment.
 
 
 ---
