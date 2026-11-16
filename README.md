@@ -98,25 +98,25 @@ This represents a proposed containment action without modifying network infrastr
 
 ### n8n Workflow Overview
 
-![Workflow Overview](screenshots/workflow-overview.png)
+![Workflow Overview](screenshots%20proj/workflow%20overview.png)
 
 *Visual overview of the six-node automation workflow.*
 
 ### Discord Security Alert
 
-![Discord Alert](screenshots/discord-alert.png)
+![Discord Alert](screenshots%20proj/discord-alert.png)
 
 *Simulated high-severity detection presented for analyst review.*
 
 ### Workflow Execution
 
-![Successful Execution](screenshots/successful-execution.png)
+![Successful Execution](screenshots%20proj/successful%20execution.png)
 
 *Execution view showing the automated processing sequence.*
 
 ### Simulated IP Blocklist
 
-![Simulated Blocklist](screenshots/simulated-blocklist.png)
+![Simulated Blocklist](screenshots%20proj/Simulated%20Blocklist.png)
 
 *Data Table used to record approved source IP addresses.*
 
