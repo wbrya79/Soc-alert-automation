@@ -227,6 +227,4 @@ While this implementation is not a production SOC solution, it demonstrates my a
 
 
 
----
 
-**Disclaimer:** This repository is an educational demonstration. Security detections, analyst decisions, and containment outcomes are simulated and should not be interpreted as production security controls.
